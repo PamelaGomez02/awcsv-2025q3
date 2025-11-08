@@ -1,6 +1,0 @@
-services:
-  clienteservidor:
-    image: clienteservidor
-    build:
-      context: .
-      dockerfile: ./Dockerfile
